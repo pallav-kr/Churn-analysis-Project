@@ -1,5 +1,5 @@
 
-# CHURNED PROJECT ANALYSIS
+# CHURNE PROJECT ANALYSIS
 
 ![churn](https://github.com/pallav-kr/Churn-analysis-Project/assets/134233451/54e62fc0-9bb5-468d-9d75-687e1eb0ba9e)
 
