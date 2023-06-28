@@ -22,6 +22,8 @@ The model can be used to calculate the churn rate and depending on the nature of
 
 ## Dataset:
 
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
 
 The data set includes information about:
 
